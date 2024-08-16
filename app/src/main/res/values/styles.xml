@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyleMedium10">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="FabStyle">
+        <item name="android:layout_width">64dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:elevation">4dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+</resources>
